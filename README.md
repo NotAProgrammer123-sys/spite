@@ -8,7 +8,7 @@ Spite is a innovated program designed to keep you loving cmd!
 
 # Installation
 
-Run the batch file!
+Its a terminal!
 
 
 # Cheatcodes
